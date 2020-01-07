@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css","comment-list.css"],"names":[],"mappings":"AAAA,QACI,iBACJ,CCFA,SACI,WACJ","file":"main.be416e61.chunk.css","sourcesContent":[".Header {\r\n    text-align: center;\r\n}",".Button1 {\r\n    float: right\r\n}"]}
